@@ -9,7 +9,7 @@ For more details, visit: [dr. Sybren A. Stüvel's post](https://stuvel.eu/post/2
 
 ## Usage
 
-Fetch and checkout a pull request:
+Fetch and checkout a pull request (replace 12345 with your Pull Request number):
 ```bash
 ./pr_tool.py 12345
 ```
