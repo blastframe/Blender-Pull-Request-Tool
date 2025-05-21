@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """
+Credit: This script is based on code by dr. Sybren A. Stüvel.
+For more details visit: https://stuvel.eu/post/2023-02-17-gitea-pull-requests-and-fish/
+
 Manage Blender pull requests and prune local branches.
 
 Usage:
